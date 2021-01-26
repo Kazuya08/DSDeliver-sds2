@@ -6,3 +6,4 @@ A aplicação tem como objetivo realizar pedidos de comidas tanto para web e mob
 
 Esta aplicação foi realizada na Semana DevSuperior #2 
 Link da aplicação: https://sds2-tkazuya.netlify.app/
+Link do Certificado: https://learn.devsuperior.com/certificados/2375000SDS2
